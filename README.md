@@ -2,7 +2,7 @@
 
 WormHex is a tool for the Retrieval of Social Media Evidence from Volatile Memory.
 
-<img src="/wormHex logo.png"/>
+<img src="images/wormHex logo.png"/>
 
 ## Dependencies
 * python3 and pip/3
@@ -15,9 +15,9 @@ WormHex is a tool for the Retrieval of Social Media Evidence from Volatile Memor
 ## Running
 * `python3 WormHex.py`
 * Opens a GUI that is easy to use. 
-* To test the tool, you can use 'Test1' file for WhatsApp application and 'Test2' file for Twitter application. 
+* To test the tool, you can use 'memory_dumps/Test1' file for WhatsApp application and 'memory_dumps/Test2' file for Twitter application. 
 
-<img src="/GUI.png"/>
+<img src="images/GUI.png"/>
 
 ## References
 You can read the [full paper on WormHex.](https://publications.waset.org/10012579/wormhex-a-volatile-memory-analysis-tool-for-retrieval-of-social-media-evidence)
